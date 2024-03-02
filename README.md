@@ -10,8 +10,8 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 ##
 <div style="display: inline-block;">
   <a href="https://github.com/henrique-griepp">
-  <img height="190em" src="https://my-git-stats-henriquecode.vercel.app/api?username=henrique-griepp&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt"/>
-  <img height="190em" src="https://my-git-stats-henriquecode.vercel.app/api/top-langs/?username=henrique-griepp&layout=compact&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://my-git-stats-henriquecode.vercel.app/api?username=henrique-griepp&show_icons=true&theme=cobalt&count_private=true"/>
+  <img height="190em" src="https://my-git-stats-henriquecode.vercel.app/api/top-langs/?username=henrique-griepp&layout=compact&theme=cobalt&show_icons=true&count_private=true"/>
 </div>
     
 ##
