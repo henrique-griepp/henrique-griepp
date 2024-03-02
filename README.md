@@ -32,9 +32,9 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 <!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> -->
     <a href="https://henriquecode.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <!--     <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-<!--     <a href="" target="_blank"><img src="" target="_blank"></a>
+<!--     <a href="" target="_blank"><img src="" target="_blank"></a> -->
     <a href="https://www.instagram.com/henriquegc.code/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--     <a href="" target="_blank"><img src="" target="_blank"></a> --> -->
+<!--     <a href="" target="_blank"><img src="" target="_blank"></a> --> 
 </div>
 
 
