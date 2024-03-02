@@ -17,7 +17,7 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 ##
 ### Skillls
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css,sass)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css,sass,tailwind,bootstrap,git,github)
 
 ##
 
