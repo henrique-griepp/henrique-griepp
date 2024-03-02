@@ -4,13 +4,10 @@
 - 🌱 Estudando Typescript e React
 - 🎓 Formado em Análise e Desenvolvimento e cursando especialização em Engenharia de Software
   
-<div>
+<div style="display: inline-block;">
   <a href="https://github.com/henrique-griepp">
-  <img height="180em" src="https://my-git-stats-henriquecode.vercel.app/api?username=henrique-griepp&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-griepp&layout=compact"/>
-
-
-  
+  <img height="220em" src="https://my-git-stats-henriquecode.vercel.app/api?username=henrique-griepp&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue"/>
+  <img height="220em" src="https://my-git-stats-henriquecode.vercel.app/api/top-langs/?username=henrique-griepp&layout=donut&theme=shadow_blue&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 
 
