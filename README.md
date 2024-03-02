@@ -1,6 +1,5 @@
 ## Olá, eu sou o Henrique! 👋
 
-##
 
 Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Comprometido em criar uma experiência digital eficiente, combinando funcionalidade com um código limpo e moderno para proporcionar resultados impactantes.
 
