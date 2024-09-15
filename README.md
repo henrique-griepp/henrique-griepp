@@ -7,13 +7,13 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudo Typescript e React
 - 🎓 Formado em Análise e Desenvolvimento e cursando especialização em Engenharia de Software
-<!--##
+--##
 <div style="display: inline-block;">
   <a href="https://github.com/henrique-griepp">
-  <img height="190em" src="https://github-readme-stats-henriquecode.vercel.app/api?username=henrique-griepp&show_icons=true&theme=cobalt"/>
-  <img height="190em" src="https://github-readme-stats-henriquecode.vercel.app/api/top-langs/?username=henrique-griepp&layout=compact&theme=cobalt&show_icons=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-status-henriquecode.vercel.app/api?username=henrique-griepp&show_icons=true&theme=cobalt"/>
+  <img height="190em" src="https://github-readme-status-henriquecode.vercel.app/api/top-langs/?username=henrique-griepp&layout=compact&theme=cobalt&show_icons=true&count_private=true"/>
 </div>
-    -->
+
 ##
 ### Skillls
 
