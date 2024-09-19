@@ -7,12 +7,6 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudo Typescript e React
 - 🎓 Formado em Análise e Desenvolvimento e cursando especialização em Engenharia de Software
---##
-<div style="display: inline-block;">
-  <a href="https://github.com/henrique-griepp">
-  <img height="190em" src="https://github-readme-status-henriquecode.vercel.app/api?username=henrique-griepp&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-status-henriquecode.vercel.app/api/top-langs/?username=henrique-griepp&layout=compact&theme=cobalt&show_icons=true&count_private=true"/>
-</div>
 
 ##
 ### Skillls
@@ -20,13 +14,13 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 <div>
   <img title="Javascript" alt="Javascript"height="50em" src="https://skillicons.dev/icons?i=js">
   <img title="Typescript" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=ts">
+  <img title="NodeJS" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=nodejs">
   <img title="React" alt="React" height="50em" src="https://skillicons.dev/icons?i=react">
   <img title="Vite" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=vite">
+  <img title="Next" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=next">
   <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
   <img title="Css" alt="Css" height="50em" src="https://skillicons.dev/icons?i=css">
-  <img title="Sass" alt="Sass" height="50em" src="https://skillicons.dev/icons?i=sass">
   <img title="Tailwind" alt="Tailwind" height="50em" src="https://skillicons.dev/icons?i=tailwind">
-  <img title="Bootstrap" alt="Bootstrap" height="50em" src="https://skillicons.dev/icons?i=bootstrap">
   <img title="Git" alt="Git" height="50em" src="https://skillicons.dev/icons?i=git">
   <img title="Github" alt="Github" height="50em" src="https://skillicons.dev/icons?i=github">
 </div>
