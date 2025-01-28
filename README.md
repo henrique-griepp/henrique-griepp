@@ -11,17 +11,16 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 ### Skillls
 
 <div>
-  <img title="Javascript" alt="Javascript"height="50em" src="https://skillicons.dev/icons?i=js">
   <img title="Typescript" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=ts">
-  <img title="NodeJS" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=nodejs">
   <img title="React" alt="React" height="50em" src="https://skillicons.dev/icons?i=react">
   <img title="Vite" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=vite">
   <img title="Next" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=next">
-  <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
-  <img title="Css" alt="Css" height="50em" src="https://skillicons.dev/icons?i=css">
   <img title="Tailwind" alt="Tailwind" height="50em" src="https://skillicons.dev/icons?i=tailwind">
   <img title="Git" alt="Git" height="50em" src="https://skillicons.dev/icons?i=git">
   <img title="Github" alt="Github" height="50em" src="https://skillicons.dev/icons?i=github">
+  <img title="Vue" alt="Vue" height="50em" src="https://skillicons.dev/icons?i=vue">
+  <img title="NodeJS" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=nodejs">
+  
 </div>
 
 
