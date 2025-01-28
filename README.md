@@ -4,9 +4,8 @@
 Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Comprometido em criar uma experiência digital eficiente, combinando funcionalidade com um código limpo e moderno para proporcionar resultados impactantes.
 
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudo Typescript e React
-- 🎓 Formado em Análise e Desenvolvimento e cursando especialização em Engenharia de Software
+- 🔭 Hoje eu trabalho com front-end/mobile
+- 🎓 Formado em Análise e Desenvolvimento e especialização em Engenharia de Software
 
 ##
 ### Skillls
