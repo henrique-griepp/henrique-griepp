@@ -12,14 +12,15 @@ Desenvolvedor Web apaixonado por transformar ideias em soluções inovadoras. Co
 
 <div>
   <img title="Typescript" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=ts">
+  <img title="Flutter" alt="Flutter" height="50em" src="https://skillicons.dev/icons?i=flutter">
+  <img title="Vue" alt="Vue" height="50em" src="https://skillicons.dev/icons?i=vue">
   <img title="React" alt="React" height="50em" src="https://skillicons.dev/icons?i=react">
   <img title="Vite" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=vite">
-  <img title="Next" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=next">
   <img title="Tailwind" alt="Tailwind" height="50em" src="https://skillicons.dev/icons?i=tailwind">
   <img title="Git" alt="Git" height="50em" src="https://skillicons.dev/icons?i=git">
   <img title="Github" alt="Github" height="50em" src="https://skillicons.dev/icons?i=github">
-  <img title="Vue" alt="Vue" height="50em" src="https://skillicons.dev/icons?i=vue">
-  <img title="NodeJS" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=nodejs">
+  <img title="NodeJS" alt="NodeJS" height="50em" src="https://skillicons.dev/icons?i=nodejs">
+
   
 </div>
 
